@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+    <field key="author" value="Aleksandar Giljanovic" />
+    <field key="version" value="0.91" />
+    <field key="description" value="Recommender Beta Version" />
+    <field key="website" value="" />
+    <field key="copyright" value="(c) Athabasca University 2011-2012" />
+    <field key="licence" value="License definition here" />
+    <field key="elgg_version" value="2011122100" />    
+</plugin_manifest>
